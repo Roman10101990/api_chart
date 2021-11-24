@@ -1,0 +1,7 @@
+﻿.chart-container {
+    position: relative;
+    max-height: 35vh;
+    max-width: 70vw;
+    display:flex;
+    margin:0 auto
+}
